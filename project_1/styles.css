@@ -1,0 +1,34 @@
+div {
+  background-color: whitesmoke;
+  width: 400px;
+  height: 60px;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  margin-top: 100px;
+}
+#search_box {
+  border-radius: 25px;
+  margin-bottom: 10px;
+}
+p {
+  background-color: green;
+  right: 0;
+  position: absolute;
+  padding: 15px;
+  top: 50px;
+}
+p2 {
+  background-color: orange;
+  right: 0;
+  position: absolute;
+  padding: 15px;
+  top: 150px;
+}
+p3 {
+  background-color: blue;
+  right: 0;
+  position: absolute;
+  padding: 15px;
+  top: 50px;
+}
